@@ -1,0 +1,59 @@
+[
+
+  {
+    "user_id": "",
+    "context_history": [],
+    "target_movie": {
+      "movie_id": "",
+      "movie_name": "",
+      "director": "",
+      "tags": "",
+      "summary": "",
+      "year": ""
+    },
+    "is_cold_start": true
+  },
+  {
+    "user_id": "",
+    "context_history": [],
+    "target_movie": {
+      "movie_id": "",
+      "movie_name": "",
+      "director": "",
+      "tags": "",
+      "summary": "",
+      "year": ""
+    },
+    "is_cold_start": false
+  },
+  {
+    "user_id": "",
+    "context_history": [
+      {
+        "movie_id": "",
+        "movie_name": "",
+        "director": "",
+        "rating": 3,
+        "comment": "",
+        "tags": ""
+      },
+      {
+        "movie_id": "",
+        "movie_name": "",
+        "director": "",
+        "rating": 4,
+        "comment": "",
+        "tags": ""
+      }
+    ],
+    "target_movie": {
+      "movie_id": "",
+      "movie_name": "",
+      "director": "",
+      "tags": "",
+      "summary": "",
+      "year": ""
+    },
+    "is_cold_start": false
+  }
+]
